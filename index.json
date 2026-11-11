@@ -1,0 +1,17 @@
+{
+  "plugins": [
+    {
+      "description": "Insert the current local date and time at the cursor",
+      "download_url": "https://github.com/criteric/snack-plugins/releases/download/plugin-criteric.insert-timestamp-v0.1.0/criteric.insert-timestamp-0.1.0.yummy",
+      "id": "criteric.insert-timestamp",
+      "language": "lua",
+      "name": "Insert Timestamp",
+      "publisher": "criteric",
+      "runtime": "lua",
+      "sdk": "^1.0",
+      "sha256": "caae052ccea168d1f1a2e98ab208dc7a53f922f0b550396a3c998dce5292d8b6",
+      "version": "0.1.0"
+    }
+  ],
+  "schema": 1
+}
